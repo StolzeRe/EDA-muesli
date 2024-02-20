@@ -1,6 +1,6 @@
 # EDA-muesli
 
-## Business understanding
+### Business understanding
 Extracting information from the order-delivery-process for a Muesli company
 
 ### Exploratory Data Analysis
@@ -24,7 +24,7 @@ The logistics company said they have an average of 3 days delivery times to all 
 
 # Workflow
 <b> Understanding the business problems and find potential solutions</b>  
-1.) Understand the order process (see Flowcharts)  
+1.) Understand the order process (see visualisations for [standard](EDA-muesli_Vis_std-process.png) and [express](EDA-muesli_Vis_exp-process.png) process)
 2.) Propose KPIs that would be useful for tracking the performance processes overall and at each stage (see 2.kpis)
 
 <b> Exploring the data</b>  

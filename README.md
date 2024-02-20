@@ -4,10 +4,9 @@
 Extracting information from the order-delivery-process for a Muesli company
 
 ### Exploratory Data Analysis
-Objective: Business Understanding and extracting information from customer briefing  
+Objective: Business understanding and extracting information from customer briefing  
 Technical: Combine multiple data sources, perform Exploratory Data Analysis  
 Mathematical: Calculate descriptive statistics  
-Data: Google Drive EDA Project Folder  
 
 ## Business case
 A Muesli distribution company wants to understand their delivery process. They want to develop KPIs to keep track of their business health in order to improve the service they offer to their customers.
@@ -28,14 +27,14 @@ The logistics company said they have an average of 3 days delivery times to all 
 1.) Understand the order process (see Flowcharts)  
 2.) Propose KPIs that would be useful for tracking the performance processes overall and at each stage (see 2.kpis)
 
-<b>  Exploring the data</b>  
+<b> Exploring the data</b>  
 3.) Perform an EDA to describe what data exists including descriptive statistics, identifying missing values and any outliers.  
 4.) Preparing data by combining and plotting to generate the data needed to validate the assumptions and measure the KPIs.
 
-<b>  Validating the solution</b>  
+<b> Validating the solution</b>  
 5.) Further exploratory data analysis to understand the time taken in each step in the order process and the range of values for each KPI.  
 6.) Evaluate whether the data align with the explanations of the processes given by the company and identify any steps that have ‘concerning’ levels of reliability.  
 
-<b>  Visualise and Communicate</b>  
+<b> Visualise and Communicate</b>  
 7.) The Jupiter Notebook contains findings, code, and visualisations that can be delivered to the customer (see 3.muesli_V.2.ipnyb)  
-8.) Slides for stakeholders presentation (see 4.slides_findings)
+8.) Slides for stakeholders presentation (see EDA-muesli_presentation)

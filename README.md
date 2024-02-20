@@ -1,9 +1,9 @@
 # EDA-muesli
 
-### Business understanding
+<b> Business understanding</b>
 Extracting information from the order-delivery-process for a Muesli company
 
-### Exploratory Data Analysis
+<b> Exploratory Data Analysis</b>
 Objective: Business understanding and extracting information from customer briefing  
 Technical: Combine multiple data sources, perform Exploratory Data Analysis  
 Mathematical: Calculate descriptive statistics  

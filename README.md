@@ -25,7 +25,7 @@ The logistics company said they have an average of 3 days delivery times to all 
 # Workflow
 <b> Understanding the business problems and find potential solutions</b>  
 1.) Understand the order process (see visualisations for [standard](EDA-muesli_Vis_std-process.png) and [express](EDA-muesli_Vis_exp-process.png) process)  
-2.) Propose KPIs that would be useful for tracking the performance processes overall and at each stage (see 2.kpis)
+2.) Propose KPIs that would be useful for tracking the performance processes overall and at each stage (see )
 
 <b> Exploring the data</b>  
 3.) Perform an EDA to describe what data exists including descriptive statistics, identifying missing values and any outliers.  
@@ -36,5 +36,5 @@ The logistics company said they have an average of 3 days delivery times to all 
 6.) Evaluate whether the data align with the explanations of the processes given by the company and identify any steps that have ‘concerning’ levels of reliability.  
 
 <b> Visualise and Communicate</b>  
-7.) The Jupiter Notebook contains findings, code, and visualisations that can be delivered to the customer (see 3.muesli_V.2.ipnyb)  
+7.) The Jupiter Notebook contains findings, code, and visualisations that can be delivered to the customer (see )  
 8.) Slides for stakeholders presentation [see EDA-muesli_presentation](EDA-muesli_presentation.pdf)

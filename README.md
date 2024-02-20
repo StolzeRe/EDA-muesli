@@ -37,4 +37,4 @@ The logistics company said they have an average of 3 days delivery times to all 
 
 <b> Visualise and Communicate</b>  
 7.) The Jupiter Notebook contains findings, code, and visualisations that can be delivered to the customer (see 3.muesli_V.2.ipnyb)  
-8.) Slides for stakeholders presentation (see EDA-muesli_presentation) https://github.com/StolzeRe/EDA-muesli/blob/3e5f6a50ee3fa6ad9a0cae760cdf707e347f8408/EDA-muesli_presentation.pdf
+8.) Slides for stakeholders presentation ([see EDA-muesli_presentation] (https://github.com/StolzeRe/EDA-muesli/blob/3e5f6a50ee3fa6ad9a0cae760cdf707e347f8408/EDA-muesli_presentation.pdf))
